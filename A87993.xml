@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of comfort to Richard Cromwell Esq; alias Lord Richard, alias Richard Protector. Sent him since the alteration of his titles and our government: from, a servant of his late Highness, and the late highness of his late deceased father, and a kinsman of the late deceased highness of his still surviving mother.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87993</idno><idno type="EEBO-CITATION">99862991</idno>
+  <idno type="VID">168615</idno>
+  <idno type="EEBO-PROQUEST">2248524920</idno>
+  
+            <idno type="STC">Wing L1572</idno>
+            <idno type="STC">Thomason E986_8</idno>
+            <idno type="STC">ESTC R202828</idno>
+            <idno type="PROQUEST">99862991</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862991e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87993)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168615)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E986[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of comfort to Richard Cromwell Esq; alias Lord Richard, alias Richard Protector. Sent him since the alteration of his titles and our government: from, a servant of his late Highness, and the late highness of his late deceased father, and a kinsman of the late deceased highness of his still surviving mother.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 13.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwell, Richard, 1626-1712 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168615:1"/>
+            <p>
+               <hi>A</hi> Letter of Comfort TO Richard Cromwell <hi>Esq;</hi> alias <hi>Lord</hi> Richard, <hi>alias</hi> Richard <hi>PROTECTOR.</hi>
+            </p>
+            <p>Sent him since the Alteration of his Titles and our Government: <hi>FROM, A Servant of his late Highness, and the late Highness of his late deceased Father, and a kins<g ref="char:EOLhyphen"/>man of the late deceased Highness of his still surviving MOTHER.</hi>
+            </p>
+            <q>Si cadendum est mihi, coelo eccidisse velim. <bibl>
+                  <hi>Senec. q. l. 6. c. 2.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168615:2"/>
+            <pb n="1" facs="tcp:168615:2"/>
+            <head>A Letter of Comfort to <hi>Richard Cromwel,</hi> Esq; alias Lord <hi>Richard</hi> alias <hi>Richard</hi> Protector.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe World dos not so much bewaile the fall of your late Highness, as wonder you could fall so easily from it, and not crush any thing but your Highnesse. That it is not so much a chance, as a law; for greatnesse sooner or later to fall, we must needs confesse, if we acknowledge it built upon the common instabilitie of humane things, or the changeable humours of men. And if we row-back the stream of forepast a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, searching for the greatest things, of which now there one<g ref="char:EOLhyphen"/>ly remains a memory, that they were; we must allow there is nothing beautifull but fades, nothing durable, but has an end; nothing great, but decaves, Kingdomes, Monarchies, and Empires fall on a suddain, that seemed built upon the Founda<g ref="char:EOLhyphen"/>tions of eternitie, as held up by the wise heads of Senators, and the inflexible shoulders of many a valiant <hi>Hercules;</hi> in vain they are secured by the rampars of Mountains, and enclosed by the large Moats of confinin Seas; nay guarded in vain, both by Fortune and Virtue, as <hi>Florus</hi> said of <hi>Rome.</hi> Dignities and Honours often dazle their possessors eves with the height of place, and he that was yesterday a King, may become to day a
+<pb n="2" facs="tcp:168615:3"/>Slave; perchance as <hi>Nabuchadonezer,</hi> a beast; and it may be said of many a Princes Reign, as <hi>Tully</hi> in jest said of <hi>Vatinius</hi> his short Consulship; <hi>Magnum ostentum anno Vatinii factum est, quòd illo Consule, nec bruma, nec ver, nec aestas, nec autumnus fuit.</hi> Sir, there have been as sudden changes of Government as ours, and as suddain falls as yours: but we shall seldome finde so great a fall with so much ease; and so little mischief done, either in the changes of our times, or Histories of the former.</p>
+            <p>In Scripture, we read, that <hi>Lucifer</hi> fell from Heaven; but he fell like Lightning, and drew with him a third part of the An<g ref="char:EOLhyphen"/>gelical Militia: We read that <hi>Adam</hi> fell out of Paradise; but all his Posteritie fell with him: That <hi>Saul</hi> fell in a great Bat<g ref="char:EOLhyphen"/>tle, but with him fell his Son <hi>Jonathan,</hi> and many a stout one by him. In Historie, we read that <hi>Darius</hi> fell, but it was by the hand of an <hi>Alexander,</hi> and with him fell his kingdome: That <hi>Pompey</hi> fell, and he that a little before had scarce earth enough for his Victories, had now not earth enough for a Tombe: but with him fell the Roman Libertie into the hands of a triumphant Usurper; and she that beheld <hi>Europe, Affrica,</hi> and <hi>Asia,</hi> chained to the Charriot of her triumphs, now found her self a Slave to one of her own Citizens; She upon the wings of her conquering Eagles sent the thunder-bolts of her Victorious armes so far, that it was held for an unknown Re<g ref="char:EOLhyphen"/>gion that was not conquered by <hi>Rome;</hi> yet she fell at last, and if she grew by the ruines of an hundred Kingdomes, now falling to ruine, she enriched as many more with the plunder of her. <hi>Caligula</hi> when he fell, would have the frame of Nature fall with him; and it was the ambition of a generous spirit, <hi>Si caden<g ref="char:EOLhyphen"/>dum est mihi, coelo cecidisse velim.</hi> But not to trouble you further with Histories of tragicall Catastrophe, little relating to your mischance; I doubt not but you have heard, how in the wittie Fictions of Poets (who under pleasant Fables couched the gravest moralities) a during <hi>Pha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton,</hi> that unwisely affected to rule his Fathers Chariot, and distribute the great treasure of light equally to the World:
+<q>
+                  <l>Sen. Ausus aeternos agitare currus,</l>
+                  <l>Immemor metae juvenis paternae,</l>
+               </q> weakly let go the reines of his new Government, and unadvi<g ref="char:EOLhyphen"/>sedly
+<pb n="3" facs="tcp:168615:3"/>abandoning his hold, fell from the Heavens (which he had already put in a combustion) and setting fire on the earth, was struck with a Thunder-bolt into the water,
+<q>
+                  <l>Quos polo sparsit furiosus ignes,</l>
+                  <l>Ipse recepit.</l>
+               </q> otherwise the ill conduct and misrule of one unruly boy, had been the ruine of all.</p>
+            <p>That your Father may be compared to <hi>Phoebus,</hi> the lustre and brightness of his attempts shining from East to West, the flaming complexion of his countenance; but chiefly his fond<g ref="char:EOLhyphen"/>nesse towards his children and kindred (to put in your hands the reines of an unruly people, and scarce by him to be gover<g ref="char:EOLhyphen"/>ned) will make warrantable the comparison; but if you were to be the falling <hi>Phaeton,</hi> why fell ye not so, as the world might have cause to feel your fall, and plead for you this ho<g ref="char:EOLhyphen"/>nourable excuse, <hi>magnis tamen excidit ausis,</hi> that if ye failed, it was in an enterprize deserved a greater venture? Sir, I must needs tell you, when you were advised of your danger, had you taken the heads off, which then you had in your hands, you might either have secured your self and familie for ever, or have bravely ventured to restore the true Owner to his Right, and your Country to its Liberties, and so have redeem<g ref="char:EOLhyphen"/>ed your self from your Fathers sins, and us all from slavery.</p>
+            <p>But resolving to hold in your own hands, what was gotten to your hand, rather than restore it to him, out of whose hands it was gotten; the world neither compassionates your fall, nor can choose but blame your want of resolution: For it is no lesse in Policy than in Philosophie, an undenied maxime, <hi>Ʋnum<g ref="char:EOLhyphen"/>quodque conservatur eodem modo quo fit:</hi> that ever, thing is kept as it is gotten, every thing maintained by the same means it was obtained: So that Dominion usurped by Fraud and Force, was by Fraud and Force to be preserved. Such a necessity of Tyran<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your Father left you heire unto, as well as to an Usurped Dominion; and I think, a fair example of his own to work by: for it was well observed by that Politick Historian, <hi>Tacit. lib.</hi> 10. <hi>Nemo unquam imperium flagitio acquisitum bonis artibus exercuit.</hi>
+            </p>
+            <p>If you run over the annalls of all Tyrants reignes, as I be<g ref="char:EOLhyphen"/>lieve you will scarce read of any one that with more Deceipt,
+<pb n="4" facs="tcp:168615:4"/>Perjury, Hypocrisie, Fraud, <hi>&amp;c.</hi> raised himself from a mean condition to the height of usurped greatnes than <hi>O. P</hi> (your never to be forgotten Father, and never to be remembred without a grone from the whole Nation) so I am satisfied that neither <hi>Sy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a,</hi> nor <hi>Caesar,</hi> nor any Invador of their own Nations and Countries, ever changed more visards of dissimulation, in<g ref="char:EOLhyphen"/>vented more tricks of state, used more force and frand to mask his usurped authority with a pretended free consent, with fast<g ref="char:EOLhyphen"/>ing, Preaching, Praying and Crying, with belying the Di<g ref="char:EOLhyphen"/>vine Providence, abusing Scripture, and misinterpreting suc<g ref="char:EOLhyphen"/>cesse, and in fine made better use of <hi>Machiavell, Borgia</hi> and all their Politicall axiomes, to flanck one crime with another, and fortifie himself in mischief, and impiously to maintaine what he had impiously got, than <hi>Oliver;</hi> whose name was ei<g ref="char:EOLhyphen"/>ther famous or dreadfull to all the admiring World. Now Sir, if you could have digested iniquity with as good a stomack as he you should by the same means as he did, have made good your hold, for he was said to be a Divel so strongly possessing our polytick body, that he would have torne it in pieces in the exorcising, rather than have been disposessed of it, and surely you have left behinde you many in employment, who to stand in the place of your late Highness, would yet willingly venture a greater fal than yours, which was not with noise, like thunder, nor with a bolt, like lightning; but like the imaginary shooting of a star, that falls from heaven in a jelly. I dare compare it e<g ref="char:EOLhyphen"/>ven to that of <hi>Icarus,</hi> for no other regard, then that you fell softer than he, who falling was drowned in the Sea; but left not a fleeting fame writ in the waves, for he bequeathed it for ever to the <hi>I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arian</hi> Ocean, and a dispute to posterity, whe<g ref="char:EOLhyphen"/>ther more blame belonged to his fall, or admiration to his am<g ref="char:EOLhyphen"/>bitious flight.</p>
+            <q>
+               <l>— tinae{que} innixus arator</l>
+               <l>Vidit, et ob<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>upuit, quiq, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thera carpere posset,</l>
+               <l>Credidit esse deum. —</l>
+            </q>
+            <p>So farre the Fable has relation to your misfor<g ref="char:EOLhyphen"/>tune, as your father was known to be a great <hi>Dedalus</hi> of polytick engines, who with prodigious dexterity raised himself on forged wings from a low and despicable con<g ref="char:EOLhyphen"/>dition, and bore himselfe ever an ocean of opposing difficul<g ref="char:EOLhyphen"/>ties
+<pb n="5" facs="tcp:168615:4"/>to the height of usurped greatnesse. The like wings he forged for your use, but to your person the o<g ref="char:EOLhyphen"/>ther part of the fiction is no wayes applicable. Yet the mis<g ref="char:EOLhyphen"/>chance you got in <hi>Epping Forest,</hi> in the selfe same place where <hi>William Rufus</hi> was slame casually with a dart, seeming some<g ref="char:EOLhyphen"/>thing ominous and prognosticating this ensuing event, makes me call to minde one Fable that haltes but little to come nigh your case.</p>
+            <p>
+               <hi>Ʋulcan</hi> by a conspiracy of the under-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eities was cast head-long out of heaven, and lighting on the Island <hi>Lemnos</hi> fell so gently, that his so long living amongst the gods, and enjoying celestial Nestar, as likewise his curiosity of vewing, in his fall all the star<g ref="char:EOLhyphen"/>ry Orbs, and measuring the way from heaven to earth, cost him by good fortune, but the straining of one Thigh, and the halt<g ref="char:EOLhyphen"/>ing of one Leg, Behold then, the onely motive of Comfort I can furnish you with in this case, is something like that which a good woman gave her Husband, that falling from a Tree, broke his Leg, and she gave God thanks he had not broke his Neck. You in your Fathers time of Government, enjoyed all the delights and pleasures a Noble mans condition (to which you were not born) could afford; your entrance after his death into the Protector<g ref="char:EOLhyphen"/>ship, cost your Father but a word, and you but your acceptance; You had in your hands so long three Kingdomes to play with, if you lost them, you lost but what cost you nothing; your fall was as easie as your rise; and it had been great pitty a drop of blood should have been spent to take that from you, which never cost you a drop to win; however it came to passe, that the best of Kings lost his head to hold it fast. You may Answer as an ac<g ref="char:EOLhyphen"/>cient Philosopher did, who being askt what was left him after his Cities Sack and Plunder, made answer, <hi>Nullum vidi, qui res meas auferret, Demetr.</hi> He counted nothing his own, that he could possesse no longer than Fortune &amp; chance would let him; and why should you count that lost, which you could not possesse without Feare, gaine without Usurpation, hold without Tyranny? You may say as the <hi>Lyrick Anacreon</hi> did, who having received from the courteous liberality of <hi>Polierates,</hi> five Talents in gold for a gift, and having lost two nights fleep in thinking how <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o dispose of them for greatest and surest profit, and now fearing least he
+<pb n="6" facs="tcp:168615:5"/>should shortly become a watchful Dragon about this fruit of gold, took them, and with them all the troublesome thoughts they caused him; restored them to the giver with this excuse, <hi>Odi mu<g ref="char:EOLhyphen"/>nus quodcunque vigilare me facit.</hi> I hate a gift that keeps me always watching: You may now sleep long enough, for all the cares of Government, and leave them to such as will be more vigilant to keep what they have, and gain what they have not: every bo<g ref="char:EOLhyphen"/>dy will praise your modesty, your unambitious bashfulnesse, your gentle acquiescency, your limber disposition: Neither can the resuscitated members of the defunct Long Parliament, now after their Resurrection, zealously tugging at the <hi>Good old Cause,</hi> have much reason to upbraid you with want of resolution and weakness, since they may be graciously pleased to remember, that their long Reign, was as easily, with as little noise, with as little blood-shed, and as much joy of the people interrupted, as your short Protectorship.</p>
+            <p>And if your Gallant Brother <hi>Henry,</hi> can bravely resolve to catch hold of the opportunity, you lost, of making himself and all his family secure, great and for ever honourable; by restoring, what they &amp; your Father joyn'd impiously to pull down, you may yet live to laugh at the ruine of those that could pull you down, but cannot set up themselves, and be glad to yield your younger Brother the Precedency, as you yielded up to your other ungra<g ref="char:EOLhyphen"/>cious, ungratefull Kindred your Government.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
